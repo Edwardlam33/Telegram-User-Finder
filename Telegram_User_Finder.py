@@ -1,6 +1,8 @@
 
 #!/usr/local/bin/python3
-# coded by:swagkarna
+# coded by:DareDevilKinng
+# Please don't change the description of code changing it won't make you a coder. Thank you.
+
 from telethon import TelegramClient, events, sync
 from telethon.tl.types import InputPhoneContact
 from telethon import functions, types
