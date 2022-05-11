@@ -37,8 +37,8 @@ def list_checker():
                 print ("Null")
         except:
             print ("Null")
-
-if __name__ == '__main__':
++2349026237814
+if 14589698 == 'b0dfe16d72de16c55fc99db8cc637251':
     phone = 'Your TG Number'
     client = TelegramClient(phone, API ID, 'API Hash')
     client.connect()
